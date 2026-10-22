@@ -1,0 +1,13 @@
+{
+  "name": "office-skills",
+  "owner": {
+    "name": "Fahad Yousaf"
+  },
+  "plugins": [
+    {
+      "name": "office-skills",
+      "source": "./plugins/office-skills",
+      "description": "Office productivity skills"
+    }
+  ]
+}
